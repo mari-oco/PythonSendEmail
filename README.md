@@ -1,4 +1,4 @@
 PythonSendEmail
 ===============
 
-Create and send a simple text message
+Create and send a simple email using smtplib
